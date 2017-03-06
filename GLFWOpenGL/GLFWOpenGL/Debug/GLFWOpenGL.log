@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(380): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(381): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(388): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(389): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(394): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(397): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(398): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(749): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(750): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(754): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(755): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(757): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(758): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\vlad\documents\visual studio 2015\projects\glfwopengl\glfwopengl\main.cpp(765): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\vc100.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\vc100.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\vc100.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\vc100.pdb'; linking object as if no debug info
+  GLFWOpenGL.vcxproj -> C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\GLFWOpenGL.exe
+  GLFWOpenGL.vcxproj -> C:\Users\Vlad\Documents\Visual Studio 2015\Projects\GLFWOpenGL\Debug\GLFWOpenGL.pdb (Full PDB)
